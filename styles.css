@@ -1,0 +1,36 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    padding: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
+/* Убираем подчеркивание и меняем цвет ссылок */
+a {
+    text-decoration: none; /* Убирает подчеркивание */
+    color: #000000; /* Устанавливает черный цвет текста (можно изменить на любой другой) */
+}
+
+/* Стиль при наведении */
+a:hover {
+    color: #FF6347; /* Цвет при наведении (можно выбрать любой) */
+}
